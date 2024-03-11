@@ -1,2 +1,8 @@
-# Algo_hw3-4
-Algorithms_Homework 3 and 4
+#### Introduction
+This is the third and fourth assignment for the "Algorithms" course at NSYSU.
+
+#### Assignment 3: Implement Dynamic Programing
+- 
+ 
+#### Assignment 4: Implement Simulated Annealing
+- 
